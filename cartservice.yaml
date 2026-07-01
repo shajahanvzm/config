@@ -1,0 +1,8 @@
+cart:
+  message: "Welcome to TradeMX Cart Service API - CONFIG SERVER - GIT URL"
+  contactDetails:
+    name: "Sha GIT"
+    email: "git@trademx.com"
+  onCallSupport:
+    - (121) 232-232
+    - (232) 232-432
